@@ -1,0 +1,40 @@
+Individual Calculated Details :
+Name                   : Asif
+Total Bazar            : 2800 TK
+Total meal consumed    : 34
+Total food consumed of : 3027.462 TK
+Utility BIlls          : 13781.25 TK
+Additional Cost        : 0 TK
+Net cost of this month : -14009.0 TK
+Have to pay 14009.0 TK (rounded)
+
+Individual Calculated Details :
+Name                   : Baki
+Total Bazar            : 2535 TK
+Total meal consumed    : 30
+Total food consumed of : 2671.29 TK
+Utility BIlls          : 13781.25 TK
+Additional Cost        : 0 TK
+Net cost of this month : -13918.0 TK
+Have to pay 13918.0 TK (rounded)
+
+Individual Calculated Details :
+Name                   : hasu
+Total Bazar            : 3120 TK
+Total meal consumed    : 36
+Total food consumed of : 3205.548 TK
+Utility BIlls          : 13781.25 TK
+Additional Cost        : 200 TK
+Net cost of this month : -14067.0 TK
+Have to pay 14067.0 TK (rounded)
+
+Individual Calculated Details :
+Name                   : Shimul
+Total Bazar            : 4100 TK
+Total meal consumed    : 41
+Total food consumed of : 3650.763 TK
+Utility BIlls          : 13781.25 TK
+Additional Cost        : 0 TK
+Net cost of this month : -13332.0 TK
+Have to pay 13332.0 TK (rounded)
+
