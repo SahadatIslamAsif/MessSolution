@@ -2,8 +2,6 @@
 
 > **Solution is here!** — A Java desktop application for managing shared household mess expenses, meal tracking, and automated cost calculation.
 
-![Dashboard](screenshots/Dashboard.png)
-
 ---
 
 ## 🧾 About
